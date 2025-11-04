@@ -1,14 +1,14 @@
 baseurl = "https://blog.wynn.moe/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
-title = "Crepvéant's Blog"
-copyright = "Crepvéant"
+title = "Wynn's Blog"
+copyright = "Wynn Zeng"
 DefaultContentLanguage = "en"
 hasCJKLanguage = true
 
 [languages.en]
 languageName = "English"
-title = "Crepvéant's Blog"
+title = "Wynn's Blog"
 weight = 1
 
 [languages.en.params.sidebar]
@@ -16,7 +16,7 @@ subtitle = "Life, thoughts, and growth. "
 
 [languages.zh-cn]
 languageName = "中文"
-title = "Crepvéant 的博客"
+title = "Wynn 的博客"
 weight = 2
 
 [languages.zh-cn.params.sidebar]
@@ -24,7 +24,7 @@ subtitle = "记录生活，想法及成长。"
 
 [languages.ja]
 languageName = "日本語"
-title = "黒川梓のブログ"
+title = "Wynnのブログ"
 weight = 3
 
 [languages.ja.params.sidebar]
