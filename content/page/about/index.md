@@ -1,7 +1,7 @@
 ---
 title: About Me
 description: Learn about myself and my journey so far. 🧐
-date: '2024-12-27'
+date: '2025-11-04'
 aliases:
   - about-us
   - about-hugo
@@ -13,19 +13,21 @@ menu:
             icon: user
 ---
 
-Hi, I'm Crepvéant, a middle school student passionate about freedom, music, and programming. Exploring the infinite possibilities of the world.
+Hi there!
 
-I go by many internet identities—some are secret, but here's what I can share 😈:
+I'm Wynn, a high school student graduating in Fall 2028. My MBTI is probably INFP-T, and I'm currently studying Advanced Placement courses.
 
-- **Crepvéant Zeng**: My English name in real life. 
-  *Fun fact—my parents once called me “Wynn” since a trip to Macau, but I’m not a fan of casinos, so I decided to stick with Crepvéant.*
-- **Kurokawa Azusa (黒川 梓)**: My Japanese name, which I use for my [private GitHub account](https://github.com/kuroazusa).
+I go by many internet identities—here are a few you're allowed to know 😈:
 
-Born and raised in Beijing. That said, please follow the UTC+8 normal human routine when contacting me—I do need my sleep! 💤
+- **Wynn Zeng**: My English name—~**not yet** officially on my passport~. I chose it for the Welsh origin "Gwyn," meaning "pure white," rather than my family's original idea of naming me after a casino.
+- **Crepvéant**: My nickname, derived from Latin (Crepusculum + Veniant). I originally wanted it as my English name but dropped it for being too chuuni.
+- **Shirakawa Azusa (白川あずさ)**: My Japanese name, used for my [private GitHub account](https://github.com/AzusaBCSK) (and Apple Music). The corresponding ID is usually AzusaBCSK.
+
+Please follow the UTC+8 normal human routine when contacting me—I do need my sleep!  
 
 I have a soft spot for warm, fluffy, and cute things, which is why I believe that [<i>~~TECH OTAKUS SAVE THE WORLD!~~</i>](https://www.mihoyo.com/en) technology will make life even cozier. 🐾
 
-**Fanatic (and slightly extreme) Apple fan**, currently use iPhone Xs Max & MacBook Pro Early 2013.
-(Apr 4, 2025 Update: New devices added – Beats Fit Pro, Pixel 4XL, and Xiaomi Smart Band 9 ~~becoming impure~~)
+**Fanatic (and slightly extreme) Apple fan**, currently using an iPhone 12 Pro and a MacBook Pro Early 2013.
+My backup devices include iPhone Xs Max and Pixel 4XL. Really want a Surface Book 3 though.
 
-Preparing for the CHSEE (China High School Entrance Exam) and working **LAZY** to get into the International Department right now.
+Officially started high school and **LAZILY** ruining my GPA.

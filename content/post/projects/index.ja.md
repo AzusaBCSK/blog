@@ -9,11 +9,9 @@ categories = [
 
 ## 💣 計画中
 - [ ] [Veodra Office](https://veodra.com/products/office): Appleデバイス向けに特化した究極のオフィススイート。  
-- [ ] hugo-theme-myhue: Material You（Material Design 3）ベースのHugoブログテーマ。 ~~正直…Stackの方がまだ強い気がする（小声）~~  
 - [ ] その他にもアイデアたくさん…（脳内では大渋滞中😉） ~~ただし実現できるとは言ってない（笑）~~
 
 ## 🔄 保留中 / まだ公開レベルじゃないやつ
-- [ ] [Veodra Mirror](https://mirror.veodra.com): 小規模なOSS開発者向けのダウンロードミラーサービス。**ネット規制エリアでも**安定＆高速ダウンロードを目指す。 ~~いやもう「○○地域専用」って書いとけよって話🤣~~  
 - [ ] Discagora: 新しいフォーラムシステム。名前は「Discussion」と「Agora」からの造語。 ~~つまり学校用の掲示板作りたいってことでしょ？バレバレwww~~
 
 ## ✅ 完了済み / 現在進行形

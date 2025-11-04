@@ -9,11 +9,9 @@ categories = [
 
 ## 💣 In the Works
 - [ ] [Veodra Office](https://veodra.com/products/office): The ultimate office productivity suite tailored for Apple devices. 
-- [ ] hugo-theme-myhue: A Hugo theme based on Material You (Material Design 3). ~~Honestly… Stack still kinda hits harder, not gonna lie.~~
 - [ ] More ideas in the queue… (too many thoughts😉) ~~Still waiting for motivation to show up lol.~~
 
 ## 🔄 On Hold / Not Ready for Prime Time Yet
-- [ ] [Veodra Mirror](https://mirror.veodra.com): A download mirror service for small devs in the open-source scene, especially helpful in **restricted network areas**. Aiming for **fast and stable**, nothing shady. ~~Yeah sounds like a “region special” tool.~~
 - [ ] Discagora: A fresh new forum system. Name’s from “Discussion” + “Agora”. ~~just wanna build a school forum fr 💀~~
 
 ## ✅ Things Done (or at least not completely dead)

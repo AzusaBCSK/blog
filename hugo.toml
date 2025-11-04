@@ -1,4 +1,4 @@
-baseurl = "https://blog.crepveant.moe/"
+baseurl = "https://blog.wynn.moe/"
 languageCode = "en-us"
 theme = "hugo-theme-stack"
 title = "Crepvéant's Blog"
