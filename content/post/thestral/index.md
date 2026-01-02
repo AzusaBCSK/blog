@@ -1,12 +1,12 @@
-+++
-title = "To a Friend - and to You, Stranger"
-date = "2025-03-16"
-description = "‘The only people who can see Thestrals, are people who have seen death.’"
-categories = [
+---
+title: "To a Friend - and to You, Stranger"
+date: "2025-03-16"
+description: "‘The only people who can see Thestrals, are people who have seen death.’"
+categories: [
     "Whim"
 ]
-image = "luna_and_thestral.png"
-+++
+image: "luna_and_thestral.png"
+---
 
 **Hey, don’t cry now — look ahead, okay?**  
 **The ability to see Thestrals… it’s the final gift your longing has left you.**  

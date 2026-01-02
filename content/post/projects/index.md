@@ -1,11 +1,11 @@
-+++
-title = "Logging My Current Plans"
-date = "2025-03-10"
-desc = "Just a lil’ memo for myself, Gonna update this mess every now and then"
-categories = [
+---
+title: "Logging My Current Plans"
+date: "2025-03-10"
+desc: "Just a lil’ memo for myself, Gonna update this mess every now and then"
+categories: [
     "Note",
 ]
-+++
+---
 
 ## 💣 In the Works
 - [ ] [Veodra Office](https://veodra.com/products/office): The ultimate office productivity suite tailored for Apple devices. 

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\brotlicommon.dir/objects.a
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ar.exe cr CMakeFiles\brotlicommon.dir/objects.a @CMakeFiles\brotlicommon.dir\objects1.rsp
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\gcc.exe -shared -o libbrotlicommon.dll -Wl,--out-implib,libbrotlicommon.dll.a -Wl,--major-image-version,1,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\brotlicommon.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\brotlicommon.dir\linklibs.rsp

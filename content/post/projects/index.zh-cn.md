@@ -1,11 +1,11 @@
-+++
-title = "记录一下现在的计划吧"
-date = "2025-03-10"
-description = "就当作备忘录了，时不时更新一下状态"
-categories = [
+---
+title: "记录一下现在的计划吧"
+date: "2025-03-10"
+description: "就当作备忘录了，时不时更新一下状态"
+categories: [
     "述",
 ]
-+++
+---
 
 ## 💣 计划阶段
 - [ ] [Veodra Office](https://veodra.com/products/office): 针对 Apple 设备量身定制的终极 Office 套件。

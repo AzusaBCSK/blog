@@ -1,0 +1,36 @@
+brotli/CMakeFiles/brotlienc-static.dir/c/enc/memory.c.obj: \
+  C:/Users/Wynn/woff2/brotli/c/enc/memory.c \
+  C:/Users/Wynn/woff2/brotli/c/enc/./memory.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/string.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/crtdefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/corecrt.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_mac.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_secapi.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/sdks/_mingw_ddk.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/sec_api/string_s.h \
+  C:/Users/Wynn/woff2/brotli/c/enc/./../common/platform.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stdlib.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/corecrt_wstdlib.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/limits.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/limits.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/sec_api/stdlib_s.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/malloc.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/mm_malloc.h \
+  C:/Users/Wynn/woff2/brotli/c/include/brotli/port.h \
+  C:/Users/Wynn/woff2/brotli/c/include/brotli/types.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_header_macro.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_ptrdiff_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_size_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wchar_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_null.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_max_align_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_offsetof.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wint_t.h \
+  C:/Users/Wynn/woff2/brotli/c/enc/../common/platform.h

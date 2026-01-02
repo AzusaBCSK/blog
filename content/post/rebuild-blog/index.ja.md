@@ -1,12 +1,12 @@
-+++
-title = "ブログを再構築"
-date = "2025-01-04"
-description = "とても悪いブログが爆発して、私は激おこです。😡"
-categories = [
+---
+title: "ブログを再構築"
+date: "2025-01-04"
+description: "とても悪いブログが爆発して、私は激おこです。😡"
+categories: [
     "語り",
 ]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
-+++
+image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+---
 
 要するに、私のブログ、またまた吹っ飛びました。
 

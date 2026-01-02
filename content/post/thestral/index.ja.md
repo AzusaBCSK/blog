@@ -1,12 +1,12 @@
-+++
-title = "ある友人へ、そして見知らぬあなたへ"
-date = "2025-03-16"
-description = "「死を見たことがある者だけです。」"
-categories = [
+---
+title: "ある友人へ、そして見知らぬあなたへ"
+date: "2025-03-16"
+description: "「死を見たことがある者だけです。」"
+categories: [
     "こころ"
 ]
-image = "luna_and_thestral.png"
-+++
+image: "luna_and_thestral.png"
+---
 
 **ねぇ、泣かないで。前を向いてごらんよ**  
 **セストラルを見る力は、あなたの想いがくれた最後の贈り物だよ**  

@@ -1,0 +1,2 @@
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ar.exe qc libconvert_woff2ttf_fuzzer_new_entry.a CMakeFiles/convert_woff2ttf_fuzzer_new_entry.dir/src/convert_woff2ttf_fuzzer_new_entry.cc.obj
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ranlib.exe libconvert_woff2ttf_fuzzer_new_entry.a

@@ -1,0 +1,2 @@
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ar.exe qc libbrotlidec-static.a CMakeFiles/brotlidec-static.dir/c/dec/bit_reader.c.obj CMakeFiles/brotlidec-static.dir/c/dec/decode.c.obj CMakeFiles/brotlidec-static.dir/c/dec/huffman.c.obj CMakeFiles/brotlidec-static.dir/c/dec/state.c.obj
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ranlib.exe libbrotlidec-static.a

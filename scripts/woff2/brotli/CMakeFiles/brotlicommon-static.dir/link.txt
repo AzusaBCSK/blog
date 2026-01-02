@@ -1,0 +1,2 @@
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ar.exe qc libbrotlicommon-static.a CMakeFiles/brotlicommon-static.dir/c/common/dictionary.c.obj CMakeFiles/brotlicommon-static.dir/c/common/transform.c.obj
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ranlib.exe libbrotlicommon-static.a

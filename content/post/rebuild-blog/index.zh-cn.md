@@ -1,12 +1,12 @@
-+++
-title = "关于博客重建"
-date = "2025-01-04"
-description = "非常坏博客爆炸，令我红温。 😡"
-categories = [
+---
+title: "关于博客重建"
+date: "2025-01-04"
+description: "非常坏博客爆炸，令我红温。 😡"
+categories: [
     "述",
 ]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
-+++
+image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+---
 
 总而言之，我的博客又又又一次的炸了。
 

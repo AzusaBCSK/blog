@@ -1,0 +1,15 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/brotlicommon.dir/c/common/dictionary.c.obj"
+  "CMakeFiles/brotlicommon.dir/c/common/dictionary.c.obj.d"
+  "CMakeFiles/brotlicommon.dir/c/common/transform.c.obj"
+  "CMakeFiles/brotlicommon.dir/c/common/transform.c.obj.d"
+  "libbrotlicommon.dll"
+  "libbrotlicommon.dll.a"
+  "libbrotlicommon.dll.manifest"
+  "libbrotlicommon.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/brotlicommon.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

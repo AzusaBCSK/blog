@@ -1,12 +1,12 @@
-+++
-title = "About Blog Rebuild"
-date = "2025-01-04"
-description = "Very bad blog vanished. Let me angry. 😡"
-categories = [
+---
+title: "About Blog Rebuild"
+date: "2025-01-04"
+description: "Very bad blog vanished. Let me angry. 😡"
+categories: [
     "Note",
 ]
-image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
-+++
+image: "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
+---
 
 In short, my blog has *blown up* yet again. 
 

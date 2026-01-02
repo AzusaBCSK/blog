@@ -1,12 +1,12 @@
-+++
-title = "The Third Manifestation of Existence"
-date = "2025-03-02"
-description = "Anhedonia: Trapped in a vague almost nonexistent void."
-categories = [
+---
+title: "The Third Manifestation of Existence"
+date: "2025-03-02"
+description: "Anhedonia: Trapped in a vague almost nonexistent void."
+categories: [
     "Poem", "Whim"
 ]
-image = "The_Third_Manifestation_of_Existence_42ver.png"
-+++
+image: "The_Third_Manifestation_of_Existence_42ver.png"
+---
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tr/album/%E6%B2%A1%E5%92%AF/1669352621?i=1669353089"></iframe>
 
 The pendulum crystallizes into salt on eyelashes,  

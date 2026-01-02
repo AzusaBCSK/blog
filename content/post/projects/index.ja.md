@@ -1,11 +1,11 @@
-+++
-title = "今の計画でもメモっておくか"
-date = "2025-03-10"
-description = "まあ備忘録ってことで。たまに更新していく予定"
-categories = [
+---
+title: "今の計画でもメモっておくか"
+date: "2025-03-10"
+description: "まあ備忘録ってことで。たまに更新していく予定"
+categories: [
     "語り",
 ]
-+++
+---
 
 ## 💣 計画中
 - [ ] [Veodra Office](https://veodra.com/products/office): Appleデバイス向けに特化した究極のオフィススイート。  

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\woff2dec.dir/objects.a
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\ar.exe cr CMakeFiles\woff2dec.dir/objects.a @CMakeFiles\woff2dec.dir\objects1.rsp
+C:\Users\Wynn\llvm-mingw-20251216-ucrt-x86_64\bin\g++.exe -shared -o libwoff2dec.dll -Wl,--out-implib,libwoff2dec.dll.a -Wl,--major-image-version,1,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\woff2dec.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\woff2dec.dir\linklibs.rsp

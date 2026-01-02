@@ -1,0 +1,25 @@
+brotli/CMakeFiles/brotlicommon-static.dir/c/common/dictionary.c.obj: \
+  C:/Users/Wynn/woff2/brotli/c/common/dictionary.c \
+  C:/Users/Wynn/woff2/brotli/c/common/./dictionary.h \
+  C:/Users/Wynn/woff2/brotli/c/include/brotli/port.h \
+  C:/Users/Wynn/woff2/brotli/c/include/brotli/types.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_header_macro.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_ptrdiff_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_size_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wchar_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_null.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_max_align_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_offsetof.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/crtdefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/corecrt.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_mac.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_secapi.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/sdks/_mingw_ddk.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wint_t.h

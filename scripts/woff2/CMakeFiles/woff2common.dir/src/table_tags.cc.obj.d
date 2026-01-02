@@ -1,0 +1,28 @@
+CMakeFiles/woff2common.dir/src/table_tags.cc.obj: \
+  C:/Users/Wynn/woff2/src/table_tags.cc \
+  C:/Users/Wynn/woff2/src/./table_tags.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/inttypes.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__config \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__config_site \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__configuration/abi.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__configuration/compiler.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__configuration/platform.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__configuration/availability.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/__configuration/language.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/inttypes.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/inttypes.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/crtdefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/corecrt.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_mac.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/_mingw_secapi.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/vadefs.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/sdks/_mingw_ddk.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stdint.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/c++/v1/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/include/stddef.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wchar_t.h \
+  C:/Users/Wynn/llvm-mingw-20251216-ucrt-x86_64/lib/clang/21/include/__stddef_wint_t.h
