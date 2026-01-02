@@ -6,7 +6,7 @@ image: 2025end_SAO.png
 categories:
   - 語り
   - こころ
-draft: true
+draft: false
 ---
 ## やっとブログの存在を思い出した？
 本日、[Fork](https://git-fork.com/) のアバターを設定している折、[Gravatar](https://gravatar.com/) が個人のホームとして転用可能僕はなことに気づいた。そこで僕は Cloudflare Workers を用いてReverse Proxyを即席で組み上げ、無用なHTML部品を排除し、新ドメイン wynn.moe へと投下した。見た目も案外、悪くない🤔  
