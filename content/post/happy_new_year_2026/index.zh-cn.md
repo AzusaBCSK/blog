@@ -103,8 +103,8 @@ export default {
 
 ### 🌏 出行 & 朋友
 
-- **8 月底**：第一次自己一个人去 **深圳 & 香港**
-    见到了好朋友： [ResetPower](https://resetpower.moe/) 和 [StrParfait](https://github.com/Texas20041108)
+- **8 月底**：第一次自己一个人去 **深圳 & 香港**  
+    见到了好朋友： [ResetPower](https://github.com/ResetPower26) 和 [StrParfait](https://github.com/Texas20041108)
     
 - 和一个很好的朋友决裂了😭  
     后来又和好了wwww。

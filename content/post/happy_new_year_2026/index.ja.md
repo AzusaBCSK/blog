@@ -102,9 +102,9 @@ export default {
 
 - **8月末**：初めて一人で **深圳＆香港** へ。  
   ……一人旅とか、僕がほんとにやる日が来るとは。  
-  で、ちゃんと友だちにも会えた： [ResetPower](https://resetpower.moe/) と [StrParfait](https://github.com/Texas20041108)
+  で、ちゃんと友だちにも会えた： [ResetPower](https://github.com/ResetPower26) と [StrParfait](https://github.com/Texas20041108)
 
-- 大事な友だちと少しズレたことがあった😭
+- 大事にしたい人と少しズレたことがあった😭  
   でも、今は普通に話せるようにはなった。wwww
 
 ### 🎹 機材 & 趣味

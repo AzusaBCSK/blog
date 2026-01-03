@@ -103,7 +103,7 @@ Haven't blogged in ages. A ton has happened recently (though I *did* secretly up
 ### 🌏 Travel & Friends
 
 - **End of August**: First solo trip to **Shenzhen & Hong Kong**.  
-    Met up with the homies: [ResetPower](https://resetpower.moe/) & [StrParfait](https://github.com/Texas20041108).
+    Met up with the homies: [ResetPower](https://github.com/ResetPower26) & [StrParfait](https://github.com/Texas20041108).
     
 - Had some drama with an important friend 😭  
     But we made up later wwww.
