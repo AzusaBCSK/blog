@@ -5,7 +5,7 @@ description: 我才不会告诉你上一篇是拿这个发的喵。
 image: ""
 categories:
   - 述
-draft: true
+draft: false
 ---
 ~~目前懒得写教程了（确定不是因为补不完作业吗）。~~  
 首先是写 Blog 工具的选择，我选择了 Obsidian 。原因很简单就是开源多平台同步可装插件。没钱的学生党可以跟我一样用 Remote Sync ，个人感觉自己配置 iCloud for Windows 然后直接读不是很稳。
