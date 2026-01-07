@@ -1,6 +1,6 @@
 ---
 title: 关于我配置了一条全自动发布Hugo博客的工具链
-date: 2026-01-03
+date: 2026-01-07
 description: 我才不会告诉你上一篇是拿这个发的喵。
 image: ""
 categories:
