@@ -37,7 +37,7 @@ shortname = "hugo-theme-stack"
 pagerSize = 3
 
 [permalinks]
-post = "/p/:slug/"
+post = "/p/:contentbasename/"
 page = "/:slug/"
 
 [params]
