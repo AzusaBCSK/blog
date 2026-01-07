@@ -74,7 +74,7 @@ rssFullContent = true
   enabled = true
   provider = "giscus"
     [params.comments.giscus]
-    repo = "kuroazusa/blog"
+    repo = "AzusaBCSK/blog"
     repoId = "R_kgDOOFi1pw"
     category = "General"
     categoryId = "DIC_kwDOOFi1p84CnvFE"
@@ -141,8 +141,8 @@ main = [ ]
 
   [[menu.social]]
   identifier = "github-k"
-  name = "GitHub - 黒川　梓"
-  url = "https://github.com/kuroazusa"
+  name = "GitHub - 白川あずさ"
+  url = "https://github.com/AzusaBCSK"
   weight = 2
 
     [menu.social.params]
