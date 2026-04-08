@@ -7,7 +7,7 @@ categories: [
 ]
 math: true
 ---
-> **Abstract.**  
+> **Abstract.**
 > This paper proposes Project TRITON v0.5, a neuro-symbolic language architecture that integrates three complementary design principles. First, a Mamba-3 state-space backbone provides temporal control, context compression, and realization planning. Second, a factorized retrieval fabric separates knowledge, lexical, and stylistic memory, shifting informational burden from parametric weights to external stores. Third, a canonical internal content space—termed _Mentalese_ and instantiated via Fourier Holographic Reduced Representations (FHRR)—provides a unified substrate for structured binding, working memory, and retrieval grounding. The architecture is organized as a four-part system: a Mamba-3 control core, an FHRR Mentalese core, a retrieval fabric, and a two-stage surface interface. We describe the representational assumptions, module interfaces, training objectives, and open empirical questions required to evaluate this state-space controlled, retrieval-grounded framework.
 
 **Keywords:** state-space models; Mamba; neuro-symbolic systems; retrieval-augmented generation; vector symbolic architectures; hyperdimensional computing; surface realization; Mentalese
